@@ -1,4 +1,10 @@
+# Welcome to my repository!
+## My Name is Carlos Jose
+## I am a coding professor.
+
 ### Hi there 👋
+
+
 
 <!--
 **CSI-Carlos-Cobian/CSI-Carlos-Cobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
