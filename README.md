@@ -1,6 +1,6 @@
 # Welcome to my repository!
-## My Name is Carlos Jose
-## I am a coding professor.
+### My Name is Carlos Jose
+### I am a coding professor.
 
 ### Hi there 👋
 
