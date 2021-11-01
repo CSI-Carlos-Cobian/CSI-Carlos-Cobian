@@ -7,11 +7,7 @@
 * PC Building
 * Robotics
 * Tae-Kwon-Do
-* Programming databases, API's Scripts and many other software solutions.
-
-
-
-
+* Programming databases, API's, Scripts and many other software solutions.
 
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
