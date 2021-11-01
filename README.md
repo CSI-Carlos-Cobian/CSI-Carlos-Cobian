@@ -3,13 +3,12 @@
 ### I am a coding professor.
 ### My Hobbies are:
 * Excape From Tarkov
-* Call of Duty
 * PC Building
 * Robotics
-* Tae-Kwon-Do
-* Programming databases, API's, Scripts and many other software solutions.
+* Airsoft
+* Programming databases, API's, Scripts, threads and many other software solutions.
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning:
-- 💬 Ask me about:
-- ⚡ Fun fact:
+- 🔭 I’m currently working on: Applying to a Master's program
+- 🌱 I’m currently learning: Reviewing Data Structures
+- 💬 Ask me about: Anything!
+- ⚡ Fun fact: I'm now teaching the class that got me into programing!
