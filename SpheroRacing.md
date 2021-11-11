@@ -11,7 +11,7 @@
 
 ### Darle a las opciones `Class Room` y/o `Start Coding`
 
-### Seleccionar el Guia en el menu inferior.
+### Seleccionar el Guia en el menu inferior y elige un `SPRK+`.
 
 ### Modificar la velocidad te brinda mejor control sobre el robot.
 
