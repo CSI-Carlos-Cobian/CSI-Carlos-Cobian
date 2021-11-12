@@ -18,7 +18,7 @@
 <br>
 
 ## Reglas:
-* Una ves estes en el area roja, puedes calibrar tu Sphero. Una vez salgas ya no puedes calibrarlo.
+* Una vez estes en el area roja, puedes calibrar tu Sphero. Una vez salgas ya no puedes calibrarlo.
 * Si mueves el sphero en su base mientras no es tu turno, y se cae, quedas descualificado de la competencia.
 * Si te sales del recuadro, pierdes.
 * No puedes rodar el sphero hasta el profesor una ves te salgas del area. tienes que ir a recogerlo.
