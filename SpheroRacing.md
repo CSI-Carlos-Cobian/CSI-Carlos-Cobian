@@ -9,7 +9,7 @@
 
 ### It al <u>App Store</u> o <u>Play Store</u> y descargar `Sphero edu`.
 
-### Darle a las opciones `Class Room` y/o `Start Coding`
+### Darle a las opciones `I'm a school user` y/o `Let's Code`
 
 ### Seleccionar el Guia en el menu inferior y elige un `SPRK+`.
 
