@@ -11,7 +11,7 @@
 
 ### Darle a las opciones `I'm a school user` y/o `Let's Code`
 
-### Seleccionar el Guia en el menu inferior y elige un `SPRK+`.
+### Seleccionar el Guia `Drive` en el menu inferior y elige un `SPRK+`.
 
 ### Modificar la velocidad te brinda mejor control sobre el robot.
 
