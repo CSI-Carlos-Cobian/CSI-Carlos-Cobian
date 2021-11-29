@@ -1,7 +1,10 @@
 <h1> HTML Webpage Recipe </h1>
 <h2> Christmas Recipe: </h2>
 
-<b> Include images of the item </b>
+<img    src="https://www.laylita.com/recetas/wp-content/uploads/2018/09/1-Receta-del-tres-leches.jpg" 
+        title="Tres Leches" 
+        width="20%" 
+        height="20%" />
 
 <h3> Ingredients: </h3>
 
@@ -12,6 +15,7 @@
   <li>Milk</li>
 </ul>
 
+<br>
 
 <h3> Steps: </h3>
 
