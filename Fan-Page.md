@@ -18,6 +18,7 @@
 </p>
 
 <br>
+
 <div align="center">
     <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
             title="Pestily"
@@ -63,3 +64,10 @@
         <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
     </tr>
 </table>
+
+
+<br><br>
+
+<p>
+    Made by: <u>Carlos Jose Cobian</u> on December 2, 2021
+</p>
