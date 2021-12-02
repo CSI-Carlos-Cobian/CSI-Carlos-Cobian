@@ -15,38 +15,39 @@
 
 
 <br>
-
-<table style="tr:hover {background-color: yellow;}">
-    <tr>
-        <th>Name</th>
-        <td>Paul</td>
-    </tr>
-    <tr>
-        <th>Age</th>
-        <td>34</td>
-    </tr>
-    <tr>
-        <th>Birthday</th>
-        <td>7th November</td>
-    </tr>
+<div align="center">
+    <table>
         <tr>
-        <th>Nationality</th>
-        <td>Australian</td>
-    </tr>
-    <tr>
-        <th>Instagram</th>
-        <td>@thisispestily</td>
-    </tr>
-    <tr>
-        <th>Twitter</th>
-        <td>@pestily</td>
-    </tr>
-    <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
-    </tr>
-    <tr>
-        <th>Twitch</th>
-        <td>@pestily</td>
-    </tr>
-</table>
+            <th>Name</th>
+            <td>Paul</td>
+        </tr>
+        <tr>
+            <th>Age</th>
+            <td>34</td>
+        </tr>
+        <tr>
+            <th>Birthday</th>
+            <td>7th November</td>
+        </tr>
+            <tr>
+            <th>Nationality</th>
+            <td>Australian</td>
+        </tr>
+        <tr>
+            <th>Instagram</th>
+            <td>@thisispestily</td>
+        </tr>
+        <tr>
+            <th>Twitter</th>
+            <td>@pestily</td>
+        </tr>
+        <tr>
+            <th>Youtube</th>
+            <td>@pestily</td>
+        </tr>
+        <tr>
+            <th>Twitch</th>
+            <td>@pestily</td>
+        </tr>
+    </table>
+</div>
