@@ -24,3 +24,15 @@
   <li>Heat at 350</li>
   <li>Let cool</li>
 </ol>
+
+
+<!-- GRADING
+
+Correctly Named File:	5
+Unordered List:	10
+Unordered List Images:	5
+ordered list:	10
+Image:	5
+
+
+ -->
