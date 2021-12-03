@@ -13,8 +13,8 @@
 
 <br>
 
-<p>
-    Pestily is a popular streamer that plays my favorite game, Escape From tarkov. At the time that i wrote this page he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+    Pestily is a popular streamer that plays my favorite game, Escape From Tarkov. At the time that i wrote this page, he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
 </p>
 
 <br>
@@ -69,5 +69,5 @@
 <br><br>
 
 <p>
-    Made by: <u>Carlos Jose Cobian</u> on December 2, 2021
+    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
 </p>
