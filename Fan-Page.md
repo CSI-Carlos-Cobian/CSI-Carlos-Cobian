@@ -4,8 +4,8 @@
 <div align="center">
     <img    src="https://yt3.ggpht.com/ytc/AKedOLRr6_Q8yPyhMO_t8BaPUFh7S-Thuwhe6j8_Gfha5w=s900-c-k-c0x00ffffff-no-rj"
             title="Pestily"
-            width="20%"
-            height="20%" 
+            width="30%"
+            height="30%" 
             />
 </div>
 
