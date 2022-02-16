@@ -9,7 +9,7 @@
 * Airsoft
 * Chess
 * Electric Guitar
-* Programming databases, API's, Scripts, Threads and many other software solutions.
+* Programming databases, API's, Scripts, Threads and many other softwares.
 
 
-- ⚡ Fun fact: I'm now teaching the class that introduced me to programing!
+⚡ Fun fact: I'm now teaching the class that introduced me to programing!
