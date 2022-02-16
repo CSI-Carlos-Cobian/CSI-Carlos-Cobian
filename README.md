@@ -7,6 +7,8 @@
 * PC Building
 * Robotics
 * Airsoft
+* Chess
+* Electric Guitar
 * Programming databases, API's, Scripts, Threads and many other software solutions.
 
 
